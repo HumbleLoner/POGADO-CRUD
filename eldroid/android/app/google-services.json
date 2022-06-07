@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449866074365",
+    "project_id": "eldriod",
+    "storage_bucket": "eldriod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449866074365:android:f77378fc7331f83ed3d694",
+        "android_client_info": {
+          "package_name": "com.example.eldroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449866074365-uoqv8toikns8328rea9ik1qt9s9tjm7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eldroid",
+            "certificate_hash": "c3acdd61d7e356c2953d6fc2a010c2a0cb1a565a"
+          }
+        },
+        {
+          "client_id": "449866074365-5bmtsqt47ab4gens1qdo3bfn10qsdg4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoN9BoYUf_cK17YGRwrHbGrEhi1Ifkes8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449866074365-5bmtsqt47ab4gens1qdo3bfn10qsdg4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
